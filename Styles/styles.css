@@ -23,9 +23,17 @@ body {
 }
 
 a {
-    color: black
+    color: black;
 }
 
 p {
-    color: white
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+#para2 {
+    color: bb0a1e;
 }
