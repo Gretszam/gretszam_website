@@ -15,9 +15,9 @@ h3 {
 h4 {
     color: black;
     border: 5px solid;
-    border-color: bb0a1e;
+    border-color: red;
     border-width: thick;
-    width: 9%
+    width: 90px
 }
 
 body {
@@ -37,8 +37,8 @@ li {
     color: white;
 }
 
-#para2 {
-    color: bb0a1e;
+#nav {
+    color: darkred;
 }
 
 dt {
@@ -49,12 +49,8 @@ dd {
     color: white;
 }
 
-td {
-    color: white;
-}
-
-th {
-    color: white;
+dt {
+    color: deepskyblue;
 }
 
 /* mouse over link */
@@ -64,4 +60,8 @@ a:hover {
 
 .center {
     text-align: center;
+}
+
+.img1 {
+   float: left;
 }
